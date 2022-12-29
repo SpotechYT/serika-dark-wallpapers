@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark Wallpapers</h1>
 <p align="center">Wallpapsers bassed on my Serika Dark Theme</p>
 
