@@ -3,6 +3,7 @@
 <p align="center">Wallpapsers bassed on my VS Code Theme</p>
 
 Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
+Get the start page: https://github.com/SpotechYT/serika-dark-startpage
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
