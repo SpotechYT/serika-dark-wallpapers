@@ -1,10 +1,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/serika-dark/main/assets/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark Wallpapers</h1>
-<p align="center">Wallpapsers bassed on my VS Code Theme</p>
+<p align="center">Wallpapsers bassed on my Serika Dark Theme</p>
 
-Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
-
-Get the start page: https://github.com/SpotechYT/serika-dark-startpage
+Get the full theme: https://github.com/SpotechYT/Serika-Dark
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
