@@ -7,7 +7,7 @@ Get the start page: https://github.com/SpotechYT/serika-dark-startpage
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
-Wallpapers:
+## Wallpapers:
 
 ![Brackets](https://raw.githubusercontent.com/SpotechYT/serika-dark-wallpapers/main/Serika-Wallpaper-Brackets.jpg)
 
